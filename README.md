@@ -1,18 +1,3 @@
-# Python-Mini-Projects
-
-一百多个简单的 Python 迷你项目，可提高你的 Python 技能。
-
-如有问题可随时联系我：[海拥](https://haiyong.site/about)
-- 微信：[wh18363](https://haiyong.site/img/qrcode/weixin.png)
-- QQ: 1836360247
-
-如果你想获取更多 python 项目，请访问[此处](https://blog.csdn.net/qq_44273429/category_11824778.html)
-
-## 海拥开发文档服务
-
-[https://haiyong.site/doc](https://haiyong.site/doc)
-
-## 项目汇总 ✨
 
 编号   | Project | Author  
 --- | --- | ---
